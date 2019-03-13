@@ -5,8 +5,11 @@ The goal was to find out how Washington's inshore ocean temperatures varied with
 OOI CTD data was used from the Coastal Endurance Array. Links for the Washington Inshore Surface Mooring instruments are provided below.
 
 1.) CE06ISSM-SBD17-06-CTDBPC000 (Surface Buoy)
+
 2.) CE06ISSM-RID16-03-CTDBPC000 (Near Surface Instrument Frame)
+
 3.) CE06ISSM-MFD37-03-CTDBPC000 (Seafloor Multi-Function Node) 
+
 https://ooinet.oceanobservatories.org/platformnav?id=Q0UwNklTU00=&array=PHNwYW4+Q29hc3RhbCBFbmR1cmFuY2U8L3NwYW4+&lat=NDcuMTM0NzU=&lng=LTEyNC4yNzExNQ==
 
 A figure that visually shows where the Inshore Surface Mooring is located is included in this repository.
