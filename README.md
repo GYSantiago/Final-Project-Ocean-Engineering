@@ -19,5 +19,6 @@ I was curious why the shallow seafloor managed to retain its heat so well, looke
 Washington's inshore surface mooring location is a hotspot for upwelling.
 According to the National Oceanic and Atmospheric Administration (NOAA), when upwelling occurs, high winds cause surface waters to be replaced by cold, nutrient-rich water that “wells up” from below.
 The winds from the snow storm seem to have caused a drastic form of upwelling as well as directly cooling the surface.
+
 This is very different than the common trend of water getting colder as depth increases.
 It can clearly be seen when the effects of the storm occur.
